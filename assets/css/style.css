@@ -1,0 +1,38 @@
+*{
+    border:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: unset;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    list-style: none;
+
+  }
+header {
+   background-color:chocolate;
+   display: flex;
+   height: 5em;
+}
+h3 {
+    font-size:20px;
+    margin-top: 1.3em;
+}
+body {
+     background: url(../img/p-k-picture-world-9N0Cw7jVlW4-unsplash.jpg) no-repeat center / cover;
+     height: 100vh;
+}
+nav {
+    display: flex;
+}
+nav ul {
+    display: flex;
+    align-items: center;
+}
+nav li {
+    display: flex; 
+    justify-content: flex-end;
+    margin-right: 1%;
+}
+a {
+}
