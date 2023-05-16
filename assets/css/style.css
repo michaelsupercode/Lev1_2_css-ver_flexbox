@@ -16,8 +16,8 @@ header {
 }
 
 h3 {
-    font-size:20px;
-    margin-top: 1.7rem;
+    font-size:22px;
+    margin-top: 2.2rem;
 }
 
 body {
@@ -27,14 +27,16 @@ body {
 
 nav {
     display: flex;
-}
+    align-items: center;
+    }
 
 nav ul {
     display: flex;
+    justify-content: space-evenly;
     width: 84vw;
-    align-items: space-around;
+    margin-top: .1rem;
 }
 
 p {
-    margin-bottom: 1rem;
+    margin-top: 90vh;
 }
